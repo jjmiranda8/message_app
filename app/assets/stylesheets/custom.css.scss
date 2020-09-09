@@ -1,10 +1,21 @@
 @import "semantic-ui";
 
+body {
+    background-color: rgb(28, 28, 28);
+}
+
 .chatbox { 
     height: 450px;
 }
 
 #front-circle {
     margin-top:30px
+}
+
+.content {
+    color: white;
+}
+#chatbox {
+    background-color: #1C1C2C
 }
 
