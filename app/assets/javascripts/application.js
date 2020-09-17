@@ -24,6 +24,13 @@ scroll_bottom = function() {
    }
 }
 
+submit_clear = function() {
+    $(document).on('submit','#new_message', function() {
+        $('#message_body').val('');
+        return false;
+    });
+};
+
 $(document).on('turbolinks:load', function() {
     $('.ui.dropdown').dropdown();
     $('.message .close').on('click', function() {
