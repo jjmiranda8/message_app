@@ -10,3 +10,5 @@ I'm gonna be using this web app to get familiar with Rails' Action Cable functio
 
 * PostgreSQL 11.8 
 
+* Styled with Semantic.ui
+
