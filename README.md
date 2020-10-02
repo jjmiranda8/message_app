@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I'm gonna be using this web app to get familiar with Rails' Action Cable functionality.
 
-Things you may want to cover:
+## Specs:
 
-* Ruby version
+* Ruby 2.7.1 
 
-* System dependencies
+* Rails 5.2.4.3 
 
-* Configuration
+* PostgreSQL 11.8 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
